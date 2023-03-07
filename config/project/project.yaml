@@ -1,4 +1,4 @@
-dateModified: 1678201008
+dateModified: 1678215091
 email:
   fromEmail: thorsten@ddev.site
   fromName: 'example craft cms'
@@ -24,6 +24,7 @@ plugins:
   imager-x:
     edition: lite
     enabled: true
+    licenseKey: DM1E2R26P90WDL9JS3CCAQ71
     schemaVersion: 3.0.0
   knock-knock:
     edition: standard
@@ -40,6 +41,7 @@ plugins:
   seomatic:
     edition: standard
     enabled: true
+    licenseKey: 97DG6SBEIPBOEFX1ZNJS5VGM
     schemaVersion: 3.0.11
   typedlinkfield:
     edition: standard
