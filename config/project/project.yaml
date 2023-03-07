@@ -1,0 +1,63 @@
+dateModified: 1678201008
+email:
+  fromEmail: thorsten@ddev.site
+  fromName: 'example craft cms'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0e7635a0-55ec-4075-b42e-41252313cc4a: Common # Common
+    615fd499-b496-43f5-ae6d-a087bde15b31: 'example craft cms' # example craft cms
+    e5d4e963-1baa-4419-a859-30b71678e78e: 'example craft cms' # example craft cms
+plugins:
+  agnostic-fetch:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  async-queue:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  cp-field-inspect:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  imager-x:
+    edition: lite
+    enabled: true
+    schemaVersion: 3.0.0
+  knock-knock:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.1.1
+  postmark:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.1
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+  seomatic:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.11
+  typedlinkfield:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'example craft cms'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
